@@ -46,5 +46,4 @@ Bridging the gap between robust web development and data-driven insights. As a C
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FrontCohete&show_icons=true&theme=transparent&hide_border=true&title_color=1572B6&icon_color=1572B6&text_color=333333" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrontCohete&theme=transparent&hide_border=true&title_color=1572B6&icon_color=1572B6&text_color=333333" alt="GitHub Streak" width="48%" />
 </div>
