@@ -2,8 +2,7 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=f5c000&reversal=true />
 </div>
-### Web Developer & Data Analyst
-
+<h1>Web Developer & Data Analyst</h1>
 Bridging the gap between robust web development and data-driven insights. As a Computer Systems Engineering student at **ESCOM - IPN**, I specialize in building scalable web applications and extracting value from complex datasets.
 
 ---
@@ -14,7 +13,7 @@ Bridging the gap between robust web development and data-driven insights. As a C
 - ⚙️ **Data Engineering:** Building and preparing data collection scripts, transforming raw data, and integrating it into scalable templates.
 - 🌱 **Learning:** Deep diving into genetic algorithms for real-time simulation development.
 
-## ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack & Tools</b> 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack & Tools</b> 
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,6 +43,12 @@ Bridging the gap between robust web development and data-driven insights. As a C
 
 ---
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrontCohete&show_icons=true&theme=transparent&hide_border=true&title_color=1572B6&icon_color=1572B6&text_color=333333" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrontCohete&theme=transparent&hide_border=true&title_color=1572B6&icon_color=1572B6&text_color=333333" alt="GitHub Streak" width="48%" />
+</div>
+
+
+<div align="center">
+   <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width ="250">  
 </div>
